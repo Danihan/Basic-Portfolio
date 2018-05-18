@@ -1,0 +1,16 @@
+
+p{
+    font-family: 'Roboto', sans-serif;
+
+    font-family: 'Kavivanar', cursive;
+}
+
+a:hover{
+    color: red;
+    font-family: 'Kavivanar', cursive;
+}
+
+a:focus{
+    color: green;
+    font-family: 'Kavivanar', cursive;
+}
